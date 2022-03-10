@@ -1,4 +1,4 @@
-## <ins>En</ins>ergy and <ins>Sus</ins>tainability On<ins>to</ins>logy Workshop Proposal
+## <ins>En</ins>ergy and <ins>Sus</ins>tainability On<ins>to</ins>logy Workshop
 
 | Ensusto        | Organisation         | Call for Papers | Timeline |
 |:---------------|:---------------------|:----------------|:----------|
