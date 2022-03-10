@@ -33,7 +33,7 @@
             </ul>
         </th>
         {% else %}
-        <td{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+        <th{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></th>
         {% endif %}
     {% endfor %}
     </tr>
