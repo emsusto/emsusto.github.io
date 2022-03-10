@@ -23,14 +23,14 @@ understand the represented domain and specific design decisions. These publicati
 * Methodologies and design choices that have been employed to address these challenges
 * Potential applications
 
-For system-focused submissions, the usage of an ontology in should exeed that of a mere taxonomy. These submissions should include a clear discussion
+For system-focused submissions, the usage of an ontology should exceed that of a mere taxonomy. These submissions should include a clear discussion
 of the ways in which semantic properties of the ontology enhance the system and aid its intended use-cases. This includes, but is not limited to:
 
 * Ontology-based data access or data management
 * Symbolic AI
 * Ontology creation, extension or testing
 
-Review criteria: Reviews will consider the novelty, signidicance and soundness of the respective ontology or system regarding the points discussed above.
+Review criteria: Reviews will consider the novelty, significance and soundness of the respective ontology or system regarding the points discussed above.
 
 
 ## Timeline
