@@ -16,7 +16,7 @@ such ontologies are used.
 ## Scope
 
 Papers in this track should be related to a novel ontology for the domain of energy and sustainability or systems and methods related to the creation,
-evaluation or application of such ontologies. Publications that focus on a specific ontology must provide additional value that enables a reader to
+evaluation or application of such ontologies or systems and methods that use such ontologies in a meaningful way. Publications that focus on a specific ontology must provide additional value that enables a reader to
 understand the represented domain and specific design decisions. These publications should address the following points:
 
 * A clear description of the domain and scope of the ontology or system
@@ -24,8 +24,15 @@ understand the represented domain and specific design decisions. These publicati
 * Methodologies and design choices that have been employed to address these challenges
 * Potential applications
 
-The usage of an ontology in system-focused submissions should exeed that of a mere taxonomy. These submissions should emphasise how the semantic properties
-of the ontology enhance the system and aid its intended applications.
+For system-focused submissions, the usage of an ontology in should exeed that of a mere taxonomy. These submissions should include a clear discussion
+of the ways in which semantic properties of the ontology enhance the system and aid its intended use-cases. This includes, but is not limited to:
+
+* Ontology-based data access or data management
+* Symbolic AI
+* Ontology creation, extension and testing
+
+Review criteria: Reviews will consider the novelty, signidicance and soundness of the respective ontology or system regarding the points discussed above.
+
 
 ## Timeline
 
