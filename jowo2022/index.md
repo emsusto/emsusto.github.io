@@ -29,7 +29,7 @@ of the ways in which semantic properties of the ontology enhance the system and 
 
 * Ontology-based data access or data management
 * Symbolic AI
-* Ontology creation, extension and testing
+* Ontology creation, extension or testing
 
 Review criteria: Reviews will consider the novelty, signidicance and soundness of the respective ontology or system regarding the points discussed above.
 
