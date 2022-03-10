@@ -1,5 +1,6 @@
 ## Organisation
 
+{% include navigation.html %}
 
 ## Organisers
 
