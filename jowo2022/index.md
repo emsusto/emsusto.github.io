@@ -2,6 +2,9 @@
 
 Ensusto 2022 will take place at [JOWO 2022](https://www.iaoa.org/jowo/2022/index.html), which is held at Jönköping University August 15-19, 2022.
 
+| [Organisation](jowo2022/organisation) | Timeline | Call for papers |
+|---|---|---|
+
 ## About Ensusto
 
 Energy, and sustainability more broadly, are increasingly relevant topics in the context of the climate crisis and a rapidly changing world, 
