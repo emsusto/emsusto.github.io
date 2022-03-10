@@ -1,6 +1,7 @@
 ## Ensusto 2022
 
 Ensusto 2022 will take place at [JOWO 2022](https://www.iaoa.org/jowo/2022/index.html), which is held at Jönköping University August 15-19, 2022.
+{# Here goes the navbar #}
 
 {% for entry in site.data.navigation %}
 {% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
@@ -38,6 +39,8 @@ Ensusto 2022 will take place at [JOWO 2022](https://www.iaoa.org/jowo/2022/index
     {% endfor %}
     </ul>
 </nav>
+
+{# Here ends the navbar #}
 
 ## About Ensusto
 
