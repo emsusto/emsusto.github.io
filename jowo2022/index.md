@@ -6,6 +6,7 @@
 
 The Energy and Sustainability Ontology (Ensusto) Workshop 2022 is part of [JOWO 2022](https://www.iaoa.org/jowo/2022/index.html), which is held at Jönköping University August 15-19, 2022. The workshop is a venue for presenting ontologies and the application of ontologies, which are related to topics that are relevant in the context of renewable energies and substainability. 
 
+
 ## Scope
 
 The scope of the workshop includes any ontology and any application of an ontology related to renewable energy and sustainability. This includes (but is not limited to): 
@@ -14,6 +15,7 @@ The scope of the workshop includes any ontology and any application of an ontolo
 * Ecosystems 
 * Human socioeconomic impacts and preventative behaviours on the environment 
 * Mitigation of the effects of climate change 
+
 
 ## Submissions 
 
@@ -24,8 +26,6 @@ Papers should be submitted non-anonymously in PDF format in compliance with the 
 Papers are submitted via Easychair. The Easychair submission page can be found at [JOWO-Easychair-Submission](https://easychair.org/my/conference?conf=jowo2022) (select the track “ Energy and Sustainability Ontology Workshop”).
 
 All accepted papers will be published as part of a joint JOWO proceedings volume at CEUR. (Previous JOWO proceedings are availble here: [JOWO 2018](http://ceur-ws.org/Vol-2205/),  [JOWO 2019](http://ceur-ws.org/Vol-2518/), [JOWO 2020](http://ceur-ws.org/Vol-2708/)).
-
-
 
 
 ## Evaluation Criteria
