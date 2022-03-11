@@ -1,9 +1,8 @@
+{% include navigation.html %}
 
 ## Energy and Sustainability Ontology (Ensusto) Workshop 2022
 
 Ensusto 2022 will take place at [JOWO 2022](https://www.iaoa.org/jowo/2022/index.html), which is held at Jönköping University August 15-19, 2022.
-
-{% include navigation.html %}
 
 ## About Ensusto
 
