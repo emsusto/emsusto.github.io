@@ -21,7 +21,7 @@ The scope of the workshop includes any ontology and any application of an ontolo
 
 Submissions should be at least 5 pages and at most 10 pages. 
 
-Papers should be submitted non-anonymously in PDF format in compliance with the new 1-column CEUR-ART Style, which can be found at [CEUR](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/). 
+Papers should be submitted non-anonymously in PDF format in compliance with the new 1-column CEUR-ART Style. Templates are available [here](./CEURART.zip), more information is available at [CEUR](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/). 
 
 Papers are submitted via Easychair. The Easychair submission page can be found at [JOWO-Easychair-Submission](https://easychair.org/my/conference?conf=jowo2022) (select the track “ Energy and Sustainability Ontology Workshop”).
 
