@@ -36,6 +36,7 @@ All accepted papers will be published as part of a joint JOWO proceedings volume
   * JOWO 2018 (http://ceur-ws.org/Vol-2205/) 
   * JOWO 2019 (http://ceur-ws.org/Vol-2518/)
   * JOWO 2020 (http://ceur-ws.org/Vol-2708/)
+  * JOWO 2021 (http://ceur-ws.org/Vol-2969/)
 
 Further information can be found at https://ensusto.github.io/jowo2022/
 
