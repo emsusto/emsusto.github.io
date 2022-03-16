@@ -25,7 +25,7 @@ Papers should be submitted non-anonymously in PDF format in compliance with the 
 
 Papers are submitted via Easychair. The Easychair submission page can be found at [JOWO-Easychair-Submission](https://easychair.org/my/conference?conf=jowo2022) (select the track “ Energy and Sustainability Ontology Workshop”).
 
-All accepted papers will be published as part of a joint JOWO proceedings volume at CEUR. (Previous JOWO proceedings are availble here: [JOWO 2018](http://ceur-ws.org/Vol-2205/),  [JOWO 2019](http://ceur-ws.org/Vol-2518/), [JOWO 2020](http://ceur-ws.org/Vol-2708/)).
+All accepted papers will be published as part of a joint JOWO proceedings volume at CEUR. (Previous JOWO proceedings are availble here: [JOWO 2018](http://ceur-ws.org/Vol-2205/),  [JOWO 2019](http://ceur-ws.org/Vol-2518/), [JOWO 2020](http://ceur-ws.org/Vol-2708/), [JOWO 2021](http://ceur-ws.org/Vol-2969/)).
 
 
 ## Evaluation Criteria
