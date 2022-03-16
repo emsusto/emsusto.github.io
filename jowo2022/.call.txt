@@ -1,0 +1,48 @@
+CALL FOR CONTRIBUTIONS
+
+The first
+
+    Energy and Sustainability Ontology Workshop 2022 (Ensusto) [1]
+
+will be part of JOWO 2022 which is held at Jönköping University August 15-19, 2022 [2]
+
+The workshop is a venue for presenting ontologies and the application of ontologies, which are related to topics that are relevant in the context of renewable energies and sustainability.
+
+IMPORTANT DATES
+
+* Submission deadline - June 3rd, 2022
+* Notification date - July 15th, 2022
+* Camera ready version due - August 5th, 2022
+
+SCOPE
+
+The scope of the workshop includes any ontology and any application of an ontology related to renewable energy and sustainability. This includes (but is not limited to):
+* Energy systems
+* Climate
+* Ecosystems
+* Human socioeconomic impacts and preventative behaviours on the environment
+* Mitigation of the effects of climate change
+
+
+SUBMISSIONS
+
+Submissions should be at least 5 pages and at most 10 pages.
+
+Papers should be submitted non-anonymously in PDF format in compliance with the new 1-column CEUR-ART Style [3]. More information is available at CEUR [4].
+
+Papers are submitted via Easychair [5]. (select the track “Energy and Sustainability Ontology Workshop”).
+
+All accepted papers will be published as part of a joint JOWO proceedings volume at CEUR. Previous JOWO proceedings are availble here:
+  * JOWO 2018 (http://ceur-ws.org/Vol-2205/) 
+  * JOWO 2019 (http://ceur-ws.org/Vol-2518/)
+  * JOWO 2020 (http://ceur-ws.org/Vol-2708/)
+
+Further information can be found at https://ensusto.github.io/jowo2022/
+
+---
+
+[1] https://ensusto.github.io/jowo2022/
+[2] https://www.iaoa.org/jowo/2022/
+[3] https://ensusto.github.io/jowo2022/CEURART.zip
+[4] https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/
+[5] https://easychair.org/my/conference?conf=jowo2022
