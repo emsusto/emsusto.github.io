@@ -4,7 +4,7 @@
 
 ## About Ensusto
 
-The Energy and Sustainability Ontology (Ensusto) Workshop 2022 is part of [JOWO 2022](https://www.iaoa.org/jowo/2022/index.html), which is held at Jönköping University August 15-19, 2022. The workshop is a venue for presenting ontologies and the application of ontologies, which are related to topics that are relevant in the context of renewable energies and sustainability. 
+The Energy and Sustainability Ontology (Ensusto) Workshop 2022 is part of [JOWO 2022](https://www.iaoa.org/jowo/2022/index.html), which is held at Jönköping University August 15-19, 2022. The workshop is a venue for presenting ontologies and the application of ontologies, which are related to topics that are relevant in the context of renewable energies and sustainability. The primary goal of this workshop is to offer researchers in these domains who develop or use ontologies to meet and exchange experiences and ideas.  
 
 
 ## Scope
