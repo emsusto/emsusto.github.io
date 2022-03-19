@@ -2,11 +2,11 @@ CALL FOR CONTRIBUTIONS
 
 The first
 
-    Energy and Sustainability Ontology Workshop 2022 (Ensusto) [1]
+    Energy, Materials and Sustainability Ontology Workshop 2022 (Ensusto) [1]
 
 will be part of JOWO 2022 which is held at Jönköping University August 15-19, 2022 [2]
 
-The workshop is a venue for presenting ontologies and the application of ontologies, which are related to topics that are relevant in the context of renewable energies and sustainability. The primary goal of this workshop is to offer researchers in these domains an opportunity to meet and exchange experiences in developing and using ontologies.
+The workshop is a venue for the presenting and discussing ontologies and applications of ontologies within renewable energies, materials science and sustainability. The primary goal of this workshop is to offer researchers and practitioners in these domains an opportunity to meet and exchange experiences in developing and using ontologies, and to provide a forum for the exchange of knowledge and best practices for ontologies in these domains.
 
 
 
@@ -18,12 +18,13 @@ IMPORTANT DATES
 
 SCOPE
 
-The scope of the workshop includes any ontology and any application of an ontology related to renewable energy and sustainability. This includes (but is not limited to):
+The scope of the workshop includes any ontology and any application of an ontology related to renewable energy, sustainability and materials. This includes (but is not limited to):
 * Energy systems
 * Climate
 * Ecosystems
 * Human socioeconomic impacts and preventative behaviours on the environment
 * Mitigation of the effects of climate change
+* Materials, including their development, characterisation and environmental impacts
 
 
 SUBMISSIONS
