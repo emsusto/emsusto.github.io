@@ -6,7 +6,7 @@ The first
 
 will be part of JOWO 2022 which is held at Jönköping University August 15-19, 2022 [2]
 
-The workshop is a venue for the presenting and discussing ontologies and applications of ontologies within renewable energies, materials science and sustainability. The primary goal of this workshop is to offer researchers and practitioners in these domains an opportunity to meet and exchange experiences in developing and using ontologies, and to provide a forum for the exchange of knowledge and best practices for ontologies in these domains.
+The workshop is a venue for the presenting and discussing ontologies and applications of ontologies within renewable energies, materials science and sustainability. The primary goal of this workshop is to offer researchers and practitioners in these domains an opportunity to meet and exchange experiences in developing and using ontologies, and to provide a forum for the exchange of knowledge and best practices for ontologies in these domains. We welcome participation also from those who have just started to apply ontologies in these domains or who are are not yet using ontologies in these domains but are interested in learning more.
 
 
 
