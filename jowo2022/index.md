@@ -4,7 +4,8 @@
 
 ## About Ensusto
 
-The Energy and Sustainability Ontology (Ensusto) Workshop 2022 is part of [JOWO 2022](https://www.iaoa.org/jowo/2022/index.html), which is held at Jönköping University August 15-19, 2022. The workshop is a venue for presenting ontologies and the application of ontologies, which are related to topics that are relevant in the context of renewable energies and sustainability. The primary goal of this workshop is to offer researchers in these domains an opportunity to meet and exchange experiences in developing and using ontologies.   
+The Energy, Materials and Sustainability Ontology (Ensusto) Workshop 2022 is part of [JOWO 2022](https://www.iaoa.org/jowo/2022/index.html), which is held at Jönköping University August 15-19, 2022. It provides a venue for presenting ontologies and their applications in the domains of renewable energy, materials and sustainability. The primary goal of this workshop is to offer researchers and practitioners in these domains an opportunity to meet and exchange experiences in developing and using ontologies, and to provide a forum for the exchange of knowledge and best practices for ontologies in these domains. We welcome participation also from those who have just started to apply ontologies in these domains or who are are not yet using ontologies in these domains but are interested in learning more.
+  
 
 
 ## Scope
@@ -15,6 +16,7 @@ The scope of the workshop includes any ontology and any application of an ontolo
 * Ecosystems 
 * Human socioeconomic impacts and preventative behaviours on the environment 
 * Mitigation of the effects of climate change 
+* Materials, including their development, characterisation and environmental impacts
 
 
 ## Submissions 
@@ -30,7 +32,7 @@ All accepted papers will be published as part of a joint JOWO proceedings volume
 
 ## Evaluation Criteria
 
-Papers in this track should be related to (1) a novel ontology for the domain of energy and sustainability or (2) systems and methods related that utilise ontologies a meaningful way in reasearch or applications related to topics of renewable energy or sustainability.  
+Papers foro this workshop should be related to (1) a novel ontology for the domain of energy, materials or sustainability or (2) systems and related methods that use ontologies a meaningful way in reasearch or applications related to topics of renewable energy, materials or sustainability.  
 
 (1) Publications that focus on a specific ontology must provide additional value that enables a reader to
 understand the represented domain and specific design decisions. These publications should address the following points:
