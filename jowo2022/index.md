@@ -32,7 +32,7 @@ All accepted papers will be published as part of a joint JOWO proceedings volume
 
 ## Evaluation Criteria
 
-Papers foro this workshop should be related to (1) a novel ontology for the domain of energy, materials or sustainability or (2) systems and related methods that use ontologies a meaningful way in reasearch or applications related to topics of renewable energy, materials or sustainability.  
+Papers for this workshop should be related to (1) a novel ontology for the domain of energy, materials or sustainability or (2) systems and related methods that use ontologies a meaningful way in reasearch or applications related to topics of renewable energy, materials or sustainability.  
 
 (1) Publications that focus on a specific ontology must provide additional value that enables a reader to
 understand the represented domain and specific design decisions. These publications should address the following points:
