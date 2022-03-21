@@ -47,7 +47,7 @@ understand the represented domain and specific design decisions. These publicati
 * A discussion in which ways the semantic properties of the ontology enhance the system and aid its intended use-cases
 * Either an evaluation of the performance or -- in the case of preliminary work -- a discussion how the authors intend to evaluate the performance of the system or methodology  
 
-Reviews will consider the novelty, significance and soundness of the respective ontology or system regarding the points discussed above.
+Reviews will consider the novelty, significance and soundness of the respective ontology or system regarding the points discussed above. All ontologies that are discussed in these publications should be publicly available.
 
 
 ## Timeline
