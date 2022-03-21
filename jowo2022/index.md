@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-## Energy and Sustainability Ontology (Ensusto) Workshop 2022
+## Energy, Materials and Sustainability Ontology (Ensusto) Workshop 2022
 
 ## About Ensusto
 
