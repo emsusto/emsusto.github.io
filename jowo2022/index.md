@@ -53,6 +53,5 @@ Reviews will consider the novelty, significance and soundness of the respective 
 ## Timeline
 
 * Submission deadline - ~~June 3rd~~ **June 17th, 2022**
-* Review Assignment - June 20th, 2022
 * Review deadline - July 8th, 2022
 * Camera ready version due - August 5th, 2022
