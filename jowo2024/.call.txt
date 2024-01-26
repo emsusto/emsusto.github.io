@@ -2,7 +2,7 @@ CALL FOR CONTRIBUTIONS
 
 The first
 
-    Energy, Materials and Sustainability Ontology Workshop 2024 (Ensusto) [1]
+    Energy, Materials and Sustainability Ontology Workshop 2024 (Emsusto) [1]
 
 will be part of JOWO 2024 which is held at University of Twente 15-19 July 2024 [2]
 
@@ -42,11 +42,11 @@ All accepted papers will be published as part of a joint JOWO proceedings volume
   * JOWO 2021 (http://ceur-ws.org/Vol-2969/)
   * JOWO 2022 (http://ceur-ws.org/Vol-3249/)
 
-Further information can be found at https://ensusto.github.io/jowo2024/
+Further information can be found at https://Emsusto.github.io/jowo2024/
 
 ---
 
-[1] https://ensusto.github.io/jowo2024/
+[1] https://Emsusto.github.io/jowo2024/
 [2] https://www.iaoa.org/jowo/2024/
-[3] https://ensusto.github.io/jowo2024/CEURART.zip
+[3] https://Emsusto.github.io/jowo2024/CEURART.zip
 [4] https://easychair.org/my/conference?conf=jowo2024
