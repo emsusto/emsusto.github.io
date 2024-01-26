@@ -2,9 +2,9 @@ CALL FOR CONTRIBUTIONS
 
 The first
 
-    Energy, Materials and Sustainability Ontology Workshop 2022 (Ensusto) [1]
+    Energy, Materials and Sustainability Ontology Workshop 2024 (Ensusto) [1]
 
-will be part of JOWO 2022 which is held at Jönköping University August 15-19, 2022 [2]
+will be part of JOWO 2024 which is held at University of Twente 15-19 July 2024 [2]
 
 The workshop is a venue for the presenting and discussing ontologies and applications of ontologies within renewable energies, materials science and sustainability. The primary goal of this workshop is to offer researchers and practitioners in these domains an opportunity to meet and exchange experiences in developing and using ontologies, and to provide a forum for the exchange of knowledge and best practices for ontologies in these domains. We welcome participation also from those who have just started to apply ontologies in these domains or who are not yet using ontologies in these domains but are interested in learning more.
 
@@ -12,9 +12,9 @@ The workshop is a venue for the presenting and discussing ontologies and applica
 
 IMPORTANT DATES
 
-* Submission deadline - June 17rd, 2022
-* Review deadline - July 8th, 2022
-* Camera ready version due - August 5th, 2022
+* Submission deadline - April 17th, 2024
+* Review deadline - May 15th, 2024
+* Camera ready version due - June 30th, 2024
 
 SCOPE
 
@@ -31,22 +31,22 @@ SUBMISSIONS
 
 Submissions should be at least 5 pages and at most 10 pages.
 
-Papers should be submitted non-anonymously in PDF format in compliance with the new 1-column CEUR-ART Style [3]. More information is available at CEUR [4].
+Papers should be submitted non-anonymously in PDF format in compliance with the new 1-column CEUR-ART Style. The template and more information is available at CEUR [3].
 
-Papers are submitted via Easychair [5]. (select the track “Energy and Sustainability Ontology Workshop”).
+Papers are submitted via Easychair [4]. (select the track “Energy and Sustainability Ontology Workshop”).
 
-All accepted papers will be published as part of a joint JOWO proceedings volume at CEUR. Previous JOWO proceedings are availble here:
+All accepted papers will be published as part of a joint JOWO proceedings volume at CEUR. Previous JOWO proceedings are available here:
   * JOWO 2018 (http://ceur-ws.org/Vol-2205/) 
   * JOWO 2019 (http://ceur-ws.org/Vol-2518/)
   * JOWO 2020 (http://ceur-ws.org/Vol-2708/)
   * JOWO 2021 (http://ceur-ws.org/Vol-2969/)
+  * JOWO 2022 (http://ceur-ws.org/Vol-3249/)
 
-Further information can be found at https://ensusto.github.io/jowo2022/
+Further information can be found at https://ensusto.github.io/jowo2024/
 
 ---
 
-[1] https://ensusto.github.io/jowo2022/
-[2] https://www.iaoa.org/jowo/2022/
-[3] https://ensusto.github.io/jowo2022/CEURART.zip
-[4] https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/
-[5] https://easychair.org/my/conference?conf=jowo2022
+[1] https://ensusto.github.io/jowo2024/
+[2] https://www.iaoa.org/jowo/2024/
+[3] https://ensusto.github.io/jowo2024/CEURART.zip
+[4] https://easychair.org/my/conference?conf=jowo2024
