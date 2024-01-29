@@ -5,10 +5,10 @@
 ## Organisers
 
 * Martin Glauer
-* Janna Hastings
 * Till Mossakowski
 * Fabian Neuhaus
 
 ## Program Committee
 
-TBA
+* Carsten Hoyer-Click
+* Jörg Waitelonis
