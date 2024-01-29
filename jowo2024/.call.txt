@@ -29,7 +29,7 @@ The scope of the workshop includes any ontology and any application of an ontolo
 
 SUBMISSIONS
 
-Submissions should be at least 5 pages and at most 10 pages.
+Submissions should be at least 5 pages and at most 9 pages.
 
 Papers should be submitted non-anonymously in PDF format in compliance with the new 1-column CEUR-ART Style. The template and more information is available at CEUR [3].
 
