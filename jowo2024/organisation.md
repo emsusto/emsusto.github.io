@@ -10,5 +10,5 @@
 
 ## Program Committee
 
-* Carsten Hoyer-Click
+* Carsten Hoyer-Klick
 * Jörg Waitelonis
