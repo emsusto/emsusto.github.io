@@ -4,7 +4,7 @@
 
 ## About Emsusto
 
-The Energy, Materials and Sustainability Ontology (Emsusto) Workshop 2024 is part of [JOWO 2024](https://www.iaoa.org/jowo/2024/index.html), which is held at University of Twente 15-19 July 2024. It provides a venue for presenting ontologies and their applications in the domains of renewable energy, materials and sustainability. The primary goal of this workshop is to offer researchers and practitioners in these domains an opportunity to meet and exchange experiences in developing and using ontologies, and to provide a forum for the exchange of knowledge and best practices for ontologies in these domains. We welcome participation also from those who have just started to apply ontologies in these domains or who are are not yet using ontologies in these domains but are interested in learning more.
+The Energy, Materials and Sustainability Ontology (Emsusto) Workshop 2024 is part of [JOWO 2024](https://www.utwente.nl/en/eemcs/fois2024/calls/workshops/), which is held at University of Twente 15-19 July 2024. It provides a venue for presenting ontologies and their applications in the domains of renewable energy, materials and sustainability. The primary goal of this workshop is to offer researchers and practitioners in these domains an opportunity to meet and exchange experiences in developing and using ontologies, and to provide a forum for the exchange of knowledge and best practices for ontologies in these domains. We welcome participation also from those who have just started to apply ontologies in these domains or who are are not yet using ontologies in these domains but are interested in learning more.
   
 
 
