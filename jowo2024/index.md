@@ -52,6 +52,6 @@ Reviews will consider the novelty, significance and soundness of the respective 
 
 ## Timeline
 
-* Submission deadline - April 17th, 2024
-* Review deadline - May 15th, 2024
+* Submission deadline - April 27th, 2024 (extended, ~~April 17th, 2024~~)
+* Review deadline - May 25th, 2024 (extended, ~~May 15th, 2024~~)
 * Camera ready version due - June 30th, 2024
