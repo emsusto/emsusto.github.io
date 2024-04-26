@@ -5,7 +5,7 @@
 ## Organisers
 
 * [Martin Glauer](mailto:martin.glauer@ovgu.de)
-* Till Mossakowski
+* Mirjam Stappel
 * Fabian Neuhaus
 
 ## Program Committee
