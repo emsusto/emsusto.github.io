@@ -4,7 +4,7 @@
 
 ## Organisers
 
-* Martin Glauer
+* [Martin Glauer](mailto:martin.glauer@ovgu.de)
 * Till Mossakowski
 * Fabian Neuhaus
 
