@@ -60,8 +60,8 @@ Reviews will consider the novelty, significance and soundness of the respective 
 ## Programme
 |Time|Presentation|
 |---|---|
-| 16:00 - 16:20: | Nele Köhler, Mirjam Stappel, Christoph Muschner, Lukas Emele, Christian Hofmann and Hannah Förster <br> **OEOX - A Post-Coordination Extension for the Open Energy Ontology** |
-| 16:20 - 16:40: | Eugenio Salvador Arellano Ruiz, Fabia Miorelli, Niklas Wulff and Carsten Hoyer-Klick <br> **A battery electric vehicle charging infrastructure ontology for interdisciplinary research** |
-| 16:40 - 17:00: | Amanda Wein, Alexandro Steinert, Jan Sören Schwarz, Laura Fuentes-Grau, Zhiyu Pan, Antonello Monti and Astrid Nieße <br> **Developing Interoperable Ontologies for Research Data Management in the Energy Domain** |
+| 16:00 - 16:20 | Nele Köhler, Mirjam Stappel, Christoph Muschner, Lukas Emele, Christian Hofmann and Hannah Förster <br> **OEOX - A Post-Coordination Extension for the Open Energy Ontology** |
+| 16:20 - 16:40 | Eugenio Salvador Arellano Ruiz, Fabia Miorelli, Niklas Wulff and Carsten Hoyer-Klick <br> **A battery electric vehicle charging infrastructure ontology for interdisciplinary research** |
+| 16:40 - 17:00 | Amanda Wein, Alexandro Steinert, Jan Sören Schwarz, Laura Fuentes-Grau, Zhiyu Pan, Antonello Monti and Astrid Nieße <br> **Developing Interoperable Ontologies for Research Data Management in the Energy Domain** |
 | 17:00 - 17:30 | **Discussion: Interoperability for Energy-Related Ontologies** |
 
