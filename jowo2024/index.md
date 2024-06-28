@@ -54,4 +54,13 @@ Reviews will consider the novelty, significance and soundness of the respective 
 
 * Submission deadline - April 27th, 2024 (extended, ~~April 17th, 2024~~)
 * Decision information - May 25th, 2024
-* Camera ready version due - June 30th, 2024
+* Camera ready version due - July 30th, 2024
+
+
+## Programme
+
+* 16:00 - 16:20 OEOX - A Post-Coordination Extension for the Open Energy Ontology
+* 16:20 - 16:40 A battery electric vehicle charging infrastructure ontology for interdisciplinary research
+* 16:40 - 17:00 Developing Interoperable Ontologies for Research Data Management in the Energy Domain
+* 17:00 - 17:30 Discussion: Interoperability for Energy-Related Ontologies
+
